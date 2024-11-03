@@ -1,0 +1,24 @@
+2024-10-29 23:01:35.551 [info] [main] Log level: Info
+2024-10-29 23:01:35.551 [info] [main] Validating found git in: "git"
+2024-10-29 23:01:35.551 [info] [main] Using git "2.47.0" from "git"
+2024-10-29 23:01:35.551 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-29 23:01:35.551 [info] > git rev-parse --show-toplevel [145ms]
+2024-10-29 23:01:35.551 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-29 23:01:35.551 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-29 23:06:36.965 [info] [main] Log level: Info
+2024-10-29 23:06:36.965 [info] [main] Validating found git in: "git"
+2024-10-29 23:06:36.965 [info] [main] Using git "2.47.0" from "git"
+2024-10-29 23:06:36.965 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-29 23:06:36.965 [info] > git rev-parse --show-toplevel [105ms]
+2024-10-29 23:06:36.965 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-29 23:06:36.965 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-29 23:07:29.121 [info] [main] Log level: Info
+2024-10-29 23:07:29.121 [info] [main] Validating found git in: "git"
+2024-10-29 23:07:29.121 [info] [main] Using git "2.47.0" from "git"
+2024-10-29 23:07:29.121 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-29 23:07:29.131 [info] > git rev-parse --show-toplevel [33ms]
+2024-10-29 23:07:29.131 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-29 23:07:29.132 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

@@ -1,0 +1,10 @@
+[5610153f-3d91-42f9-a34b-b13bcdef1eaf]
+Description=Settings for Xfce4-terminal
+size=932,481
+sizerule=3
+wmclass=Xfce4-terminal
+wmclassmatch=1
+
+[General]
+count=1
+rules=5610153f-3d91-42f9-a34b-b13bcdef1eaf

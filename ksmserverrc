@@ -1,0 +1,20 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=101b81a01a4f7000172973994600000008450005
+clientId2=101b81a01a4f7000173034394300000008760006
+clientId3=101b81a01a4f7000173043350400000008760020
+count=3
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/octopi-notifier
+program3=/usr/bin/plasma-systemmonitor
+restartCommand1=/usr/lib/DiscoverNotifier,-session,101b81a01a4f7000172973994600000008450005_1730433626_449428
+restartCommand2=/usr/bin/octopi-notifier,-session,101b81a01a4f7000173034394300000008760006_1730433626_450534
+restartCommand3=/usr/bin/plasma-systemmonitor,-session,101b81a01a4f7000173043350400000008760020_1730433626_451073
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=logan
+userId2=logan
+userId3=logan

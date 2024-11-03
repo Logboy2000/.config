@@ -1,0 +1,27 @@
+<application>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "MarketplacePluginsSearchHistory": "minecr\nminec\nmine",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.23339.11",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "IC-242.23339.11"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

@@ -1,0 +1,20 @@
+2024-10-29 23:06:30.968 [info] Uninstalling extension from the profile: codemakerai.codemakerai@1.57.0 vscode-userdata:/home/logan/.vscode-oss/extensions/extensions.json
+2024-10-29 23:06:31.018 [info] Marked extension as uninstalled codemakerai.codemakerai-1.57.0-universal
+2024-10-29 23:06:31.087 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-29 23:06:31.248 [info] Successfully uninstalled extension from the profile codemakerai.codemakerai@1.57.0 vscode-userdata:/home/logan/.vscode-oss/extensions/extensions.json
+2024-10-29 23:07:26.331 [info] Uninstalling extension from the profile: sourcegraph.cody-ai@1.38.3 vscode-userdata:/home/logan/.vscode-oss/extensions/extensions.json
+2024-10-29 23:07:26.371 [info] Marked extension as uninstalled sourcegraph.cody-ai-1.38.3-universal
+2024-10-29 23:07:26.440 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-29 23:07:26.458 [info] Successfully uninstalled extension from the profile sourcegraph.cody-ai@1.38.3 vscode-userdata:/home/logan/.vscode-oss/extensions/extensions.json

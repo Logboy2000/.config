@@ -1,0 +1,6 @@
+2024-10-29 23:01:30.459 [info] Started local extension host with pid 2232.
+2024-10-29 23:01:34.014 [info] [perf] Render performance baseline is 111ms
+2024-10-29 23:02:11.083 [error] [Extension Host] {"stack":"Error: Timeout\n\tat Timeout._onTimeout (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:168679:20)\n\tat listOnTimeout (node:internal/timers:581:17)\n\tat process.processTimers (node:internal/timers:519:7)","message":"Timeout","name":"Error"}
+2024-10-29 23:06:33.319 [info] Started local extension host with pid 3202.
+2024-10-29 23:07:12.754 [error] [Extension Host] {"stack":"Error: Timeout\n\tat Timeout._onTimeout (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:168679:20)\n\tat listOnTimeout (node:internal/timers:581:17)\n\tat process.processTimers (node:internal/timers:519:7)","message":"Timeout","name":"Error"}
+2024-10-29 23:07:27.774 [info] Started local extension host with pid 3310.

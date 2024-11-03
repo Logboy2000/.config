@@ -1,0 +1,14 @@
+{
+  "main": {
+    "width": 1280,
+    "height": 750,
+    "x": 128,
+    "y": 96,
+    "prev_x": 128,
+    "prev_y": 97,
+    "maximized": false,
+    "visible": true,
+    "decorated": true,
+    "fullscreen": false
+  }
+}

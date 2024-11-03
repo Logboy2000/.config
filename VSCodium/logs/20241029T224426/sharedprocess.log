@@ -1,0 +1,24 @@
+2024-10-29 22:44:45.992 [info] Getting Manifest... sourcegraph.cody-ai
+2024-10-29 22:44:47.063 [info] Installing extension: sourcegraph.cody-ai {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/logan/.vscode-oss/extensions/extensions.json","path":"/home/logan/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-14T15:23:06.768Z"}}
+2024-10-29 22:44:57.393 [info] Extracted extension to file:///home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal: sourcegraph.cody-ai
+2024-10-29 22:44:57.416 [info] Renamed to /home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal
+2024-10-29 22:44:57.459 [info] Extension installed successfully: sourcegraph.cody-ai vscode-userdata:/home/logan/.vscode-oss/extensions/extensions.json
+2024-10-29 22:44:57.524 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-29 22:45:02.145 [info] Getting Manifest... codemakerai.codemakerai
+2024-10-29 22:45:02.382 [info] Installing extension: codemakerai.codemakerai {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/logan/.vscode-oss/extensions/extensions.json","path":"/home/logan/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-14T15:23:06.768Z"}}
+2024-10-29 22:45:16.177 [info] Extracted extension to file:///home/logan/.vscode-oss/extensions/codemakerai.codemakerai-1.57.0-universal: codemakerai.codemakerai
+2024-10-29 22:45:16.194 [info] Renamed to /home/logan/.vscode-oss/extensions/codemakerai.codemakerai-1.57.0-universal
+2024-10-29 22:45:16.227 [info] Extension installed successfully: codemakerai.codemakerai vscode-userdata:/home/logan/.vscode-oss/extensions/extensions.json
+2024-10-29 22:45:16.312 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)

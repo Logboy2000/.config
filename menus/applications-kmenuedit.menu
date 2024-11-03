@@ -1,0 +1,102 @@
+<!DOCTYPE Menu PUBLIC '-//freedesktop//DTD Menu 1.0//EN' 'http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd'>
+<Menu>
+ <Menu>
+  <Name>Games</Name>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>Arcade</Menuname>
+   <Menuname>Board</Menuname>
+   <Menuname>Card</Menuname>
+   <Menuname>Kidsgames</Menuname>
+   <Menuname>Logic</Menuname>
+   <Menuname>TacticStrategy</Menuname>
+   <Merge type="files"/>
+   <Filename>io.github.fastrizwaan.WineZGUI_ArcInstaller.desktop</Filename>
+   <Filename>dolphin-emu.desktop</Filename>
+   <Filename>io.github.fastrizwaan.WineZGUI_FinalProject.desktop</Filename>
+   <Filename>appimagekit_9e50238d15f10bed82707f99f62df25f-Modrinth_App.desktop</Filename>
+   <Filename>appimagekit_faeec5c1fc57a157a4072174963696c9-osu_.desktop</Filename>
+   <Filename>RetroArch.desktop</Filename>
+   <Filename>Stardew Valley.desktop</Filename>
+   <Filename>steam.desktop</Filename>
+  </Layout>
+  <Exclude>
+   <Filename>Modrinth App.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>.hidden</Name>
+  <Include>
+   <Filename>Modrinth App.desktop</Filename>
+   <Filename>Modrinth.desktop</Filename>
+   <Filename>libreoffice-math.desktop</Filename>
+  </Include>
+ </Menu>
+ <Menu>
+  <Name>Science</Name>
+  <Include/>
+  <Layout/>
+  <Exclude>
+   <Filename>libreoffice-math.desktop</Filename>
+  </Exclude>
+  <Deleted/>
+ </Menu>
+ <Menu>
+  <Name>Applications</Name>
+  <Layout/>
+  <Exclude>
+   <Filename>Modrinth.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>Education</Name>
+  <Menu>
+   <Name>Science</Name>
+   <Exclude>
+    <Filename>libreoffice-math.desktop</Filename>
+   </Exclude>
+  </Menu>
+  <Deleted/>
+ </Menu>
+ <Menu>
+  <Name>Office</Name>
+  <Include>
+   <Filename>libreoffice-writer.desktop</Filename>
+   <Filename>libreoffice-startcenter.desktop</Filename>
+   <Filename>libreoffice-base.desktop</Filename>
+  </Include>
+  <Exclude>
+   <Filename>libreoffice-math.desktop</Filename>
+  </Exclude>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>libreoffice-startcenter.desktop</Filename>
+   <Filename>libreoffice-writer.desktop</Filename>
+   <Filename>libreoffice-calc.desktop</Filename>
+   <Filename>libreoffice-draw.desktop</Filename>
+   <Filename>libreoffice-impress.desktop</Filename>
+   <Filename>libreoffice-math.desktop</Filename>
+   <Filename>libreoffice-base.desktop</Filename>
+   <Separator/>
+   <Merge type="menus"/>
+   <Menuname>More</Menuname>
+  </Layout>
+ </Menu>
+ <Include/>
+ <Exclude>
+  <Filename>libreoffice-startcenter.desktop</Filename>
+ </Exclude>
+ <Layout>
+  <Merge type="menus"/>
+  <Menuname>Development</Menuname>
+  <Menuname>Games</Menuname>
+  <Menuname>Graphics</Menuname>
+  <Menuname>Internet</Menuname>
+  <Menuname>Multimedia</Menuname>
+  <Menuname>Office</Menuname>
+  <Menuname>Settingsmenu</Menuname>
+  <Menuname>System</Menuname>
+  <Menuname>Utilities</Menuname>
+  <Menuname>Applications</Menuname>
+ </Layout>
+</Menu>

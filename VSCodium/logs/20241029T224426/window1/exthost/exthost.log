@@ -1,0 +1,122 @@
+2024-10-29 22:44:30.835 [info] Extension host with pid 27164 started
+2024-10-29 22:44:31.358 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-29 22:44:31.644 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-10-29 22:44:31.671 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-29 22:44:31.756 [info] Eager extensions activated
+2024-10-29 22:44:31.763 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-29 22:44:31.770 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-29 22:44:40.115 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-10-29 22:44:57.812 [info] ExtensionService#_doActivateExtension sourcegraph.cody-ai, startup: false, activationEvent: 'onLanguage'
+2024-10-29 22:45:16.619 [info] ExtensionService#_doActivateExtension codemakerai.codemakerai, startup: false, activationEvent: '*'
+2024-10-29 22:45:25.479 [error] TypeError: The "paths[1]" argument must be of type string. Received undefined
+	at Object.resolve (node:path:1101:7)
+	at createParser (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:177960:46)
+	at parseDocument (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:178028:25)
+	at parseAllVisibleDocuments (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:178083:19)
+	at gh.value (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:40067)
+	at A._deliver (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:895)
+	at A._deliverQueue (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:986)
+	at A.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1322)
+	at gh.value (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:75197)
+	at A._deliver (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:895)
+	at A.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1215)
+	at n0.acceptDocumentsAndEditorsDelta (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:14144)
+	at n0.$acceptDocumentsAndEditorsDelta (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:12490)
+	at Kw._doInvokeHandler (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:122963)
+	at Kw._invokeHandler (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:122707)
+	at Kw._receiveRequest (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:121473)
+	at Kw._receiveOneMessage (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:120299)
+	at gh.value (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:118398)
+	at A._deliver (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:895)
+	at A.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1215)
+	at no.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:10878)
+	at gh.value (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:14459)
+	at A._deliver (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:895)
+	at A.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1215)
+	at no.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:10878)
+	at MessagePortMain.<anonymous> (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:12667)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:488:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+	at Object.topLevelDomainCallback (node:domain:160:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2024-10-29 22:45:41.212 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2024-10-29 22:46:55.155 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-29 22:46:55.203 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-29 22:46:55.448 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-29 22:46:58.524 [error] TypeError: The "paths[1]" argument must be of type string. Received undefined
+	at Object.resolve (node:path:1101:7)
+	at createParser (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:177960:46)
+	at parseDocument (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:178028:25)
+	at parseAllVisibleDocuments (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:178083:19)
+	at gh.value (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:40067)
+	at A._deliver (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:895)
+	at A._deliverQueue (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:986)
+	at A.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1322)
+	at gh.value (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:75197)
+	at A._deliver (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:895)
+	at A.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1215)
+	at n0.acceptDocumentsAndEditorsDelta (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:14144)
+	at n0.$acceptDocumentsAndEditorsDelta (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:12490)
+	at Kw._doInvokeHandler (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:122963)
+	at Kw._invokeHandler (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:122707)
+	at Kw._receiveRequest (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:121473)
+	at Kw._receiveOneMessage (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:120299)
+	at gh.value (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:118398)
+	at A._deliver (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:895)
+	at A.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1215)
+	at no.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:10878)
+	at gh.value (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:14459)
+	at A._deliver (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:895)
+	at A.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1215)
+	at no.fire (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:10878)
+	at MessagePortMain.<anonymous> (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:12667)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:488:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+	at Object.topLevelDomainCallback (node:domain:160:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2024-10-29 22:50:07.672 [error] Error: Cannot write headers after they are sent to the client
+	at ServerResponse.writeHead (node:_http_server:345:11)
+	at Server.<anonymous> (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:174670:13)
+	at Server.emit (node:events:519:28)
+	at Server.emit (node:domain:488:12)
+	at /home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:166440:81
+	at safeExecuteInTheMiddle (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:162590:18)
+	at /home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:166440:65
+	at AsyncLocalStorage.run (node:async_hooks:346:14)
+	at AsyncLocalStorageContextManager.with (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:167767:40)
+	at _ContextAPI.with (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:42593:46)
+	at Server.incomingRequest (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:166419:36)
+	at parserOnIncoming (node:_http_server:1140:12)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)
+2024-10-29 22:51:33.013 [error] Error: Cannot write headers after they are sent to the client
+	at ServerResponse.writeHead (node:_http_server:345:11)
+	at Server.<anonymous> (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:174670:13)
+	at Server.emit (node:events:519:28)
+	at Server.emit (node:domain:488:12)
+	at /home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:166440:81
+	at safeExecuteInTheMiddle (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:162590:18)
+	at /home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:166440:65
+	at AsyncLocalStorage.run (node:async_hooks:346:14)
+	at AsyncLocalStorageContextManager.with (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:167767:40)
+	at _ContextAPI.with (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:42593:46)
+	at Server.incomingRequest (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:166419:36)
+	at parserOnIncoming (node:_http_server:1140:12)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)
+2024-10-29 22:52:30.581 [error] Error: Cannot write headers after they are sent to the client
+	at ServerResponse.writeHead (node:_http_server:345:11)
+	at Server.<anonymous> (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:174670:13)
+	at Server.emit (node:events:519:28)
+	at Server.emit (node:domain:488:12)
+	at /home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:166440:81
+	at safeExecuteInTheMiddle (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:162590:18)
+	at /home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:166440:65
+	at AsyncLocalStorage.run (node:async_hooks:346:14)
+	at AsyncLocalStorageContextManager.with (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:167767:40)
+	at _ContextAPI.with (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:42593:46)
+	at Server.incomingRequest (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/extension.node.js:166419:36)
+	at parserOnIncoming (node:_http_server:1140:12)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)
+2024-10-29 22:53:13.761 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-29 22:53:13.933 [info] Extension host with pid 27164 exiting with code 0

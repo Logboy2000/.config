@@ -1,0 +1,24 @@
+2024-10-29 23:10:55.968 [info] sourcegraph.cody-ai 1.38.3 Running post uninstall script
+2024-10-29 23:10:56.526 [error] sourcegraph.cody-ai 1.38.3 post-uninstall /home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/post-uninstall.js:13664
+    throw new Error(
+          ^
+
+Error: clientCapabilities called before configuration was set with setClientCapabilitiesFromConfiguration
+    at clientCapabilities (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/post-uninstall.js:13664:11)
+    at new TelemetryRecorderProvider (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/post-uninstall.js:13834:17)
+    at main (/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal/dist/post-uninstall.js:13998:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v20.16.0
+
+2024-10-29 23:10:56.540 [error] Failed to run post uninstall script sourcegraph.cody-ai 1.38.3
+2024-10-29 23:10:56.542 [error] post-uninstall process exited with code 1
+2024-10-29 23:10:56.721 [info] Deleted uninstalled extension from disk sourcegraph.cody-ai /home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal
+2024-10-29 23:10:56.779 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal.-2be24ca6.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/logan/.vscode-oss/extensions/sourcegraph.cody-ai-1.38.3-universal.-2be24ca6.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-29 23:10:56.817 [info] Deleted uninstalled extension from disk codemakerai.codemakerai /home/logan/.vscode-oss/extensions/codemakerai.codemakerai-1.57.0-universal

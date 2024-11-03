@@ -1,0 +1,902 @@
+Desktop is 1366 x 768 @ 60 Hz
+New context 0xdf3b660 created with attributes:
+Initialize engine version: 2017.4.25f1 (9cba1c3a94f1)
+GfxDevice: creating device client; threaded=1
+Renderer: Mesa Intel(R) HD Graphics 4000 (IVB GT2)
+Vendor:   Intel
+Version:  4.2 (Core Profile) Mesa 24.2.4-arch1.1
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indir
+ect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture G
+L_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two 
+GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EX
+T_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_performance_query GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile
+ GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.2 graphics device ; Context level  <OpenGL 4.2> ; Context handle 234075744
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.080 seconds
+WARNING: Shader Unsupported: 'Hidden/BlitToDepth' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/BlitToDepth' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/BlitToDepth_MSAA' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/BlitToDepth_MSAA' - Setting to default shader.
+New context 0x109737d0 created with attributes:
+Default vsync count 0
+requesting resize -1 x -1
+Using native desktop resolution 1366 x 768
+requesting fullscreen 1366 x 768 at 0 Hz
+Desktop is 1366 x 768 @ 60 Hz
+UnloadTime: 1.688000 ms
+Fallback handler could not load library /home/logan/.local/share/Steam/steamapps/common/Verlet Swing/Verlet Swing_Data/Mono/x86_64/data-0x15456f30.so
+Fallback handler could not load library /home/logan/.local/share/Steam/steamapps/common/Verlet Swing/Verlet Swing_Data/Mono/x86_64/data-0x1547d7b0.so
+Fallback handler could not load library /home/logan/.local/share/Steam/steamapps/common/Verlet Swing/Verlet Swing_Data/Mono/x86_64/data-0x15492d30.so
+A
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left set to: A at index 97
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+A
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+D
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right set to: D at index 100
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+D
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+W
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forward set to: W at index 119
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Up
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+W
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+S
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Back set to: S at index 115
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Down
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+S
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+R
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Restart set to: R at index 114
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Restart
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+R
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mouse0
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rope set to: Mouse0 at index 323
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Leaderboardmanager loaded, steamworks enabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player input static init
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New version detected
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrading from 0.0.0f0 to 0.6.0f0
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New version detected, clearing saved data
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create settings ui
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Desktop is 1366 x 768 @ 60 Hz
+/home/logan/.config/unity3d/Flamebait Games/Verlet Swing/highscore.xmlNot found, creating
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+/home/logan/.config/unity3d/Flamebait Games/Verlet Swing/challengescore.xmlNot found, creating
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MusicManager.SwitchSong: event:/AffectMusicMelltron differs from current song so I'll try playing it.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MusicManager.SongReset: Starting up song event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+requesting resize 1366 x 768
+Using native desktop resolution 1366 x 768
+requesting fullscreen 1366 x 768 at 60 Hz
+Desktop is 1366 x 768 @ 60 Hz
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 76cc483fe6c0 -> priority: 1 
+  Thread -> id: 76cc47bfd6c0 -> priority: 1 
+requesting resize 1366 x 768
+Using native desktop resolution 1366 x 768
+requesting fullscreen 1366 x 768 at 60 Hz
+Desktop is 1366 x 768 @ 60 Hz
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+FMOD Studio Integration: Please add an 'FMOD Studio Listener' component to your a camera in the scene for correct 3D positioning of sounds
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2661 unused Assets to reduce memory usage. Loaded Objects now: 3864.
+Total: 32.685000 ms (FindLiveObjects: 1.161000 ms CreateObjectMapping: 0.435000 ms MarkObjects: 27.964000 ms  DeleteObjects: 3.124000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1 - Swing
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+leaderboard disabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully uploaded time to leaderboard Level 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 700 unused Assets to reduce memory usage. Loaded Objects now: 4361.
+Total: 37.538000 ms (FindLiveObjects: 0.518000 ms CreateObjectMapping: 0.176000 ms MarkObjects: 33.299000 ms  DeleteObjects: 3.544000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2 - Air
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully fetched 100 entries from Global in Level 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Text destroyed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+HIT
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+leaderboard disabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully uploaded time to leaderboard Level 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 645 unused Assets to reduce memory usage. Loaded Objects now: 4361.
+Total: 35.699000 ms (FindLiveObjects: 0.538000 ms CreateObjectMapping: 0.157000 ms MarkObjects: 31.701000 ms  DeleteObjects: 3.301000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3 - Tutanchess
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+leaderboard disabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully uploaded time to leaderboard Level 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 606 unused Assets to reduce memory usage. Loaded Objects now: 4361.
+Total: 33.796000 ms (FindLiveObjects: 0.469000 ms CreateObjectMapping: 0.157000 ms MarkObjects: 30.187000 ms  DeleteObjects: 2.983000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4 - Roman Vanilla
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+leaderboard disabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully uploaded time to leaderboard Level 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully fetched 100 entries from Global in Level 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 623 unused Assets to reduce memory usage. Loaded Objects now: 4365.
+Total: 39.060000 ms (FindLiveObjects: 0.811000 ms CreateObjectMapping: 0.159000 ms MarkObjects: 33.693000 ms  DeleteObjects: 4.396000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5 - Canyon
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+colliderfix (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 246 unused Assets to reduce memory usage. Loaded Objects now: 4391.
+Total: 34.399000 ms (FindLiveObjects: 0.510000 ms CreateObjectMapping: 0.136000 ms MarkObjects: 30.903000 ms  DeleteObjects: 2.850000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5 - Canyon
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+leaderboard disabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully uploaded time to leaderboard Level 5
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 620 unused Assets to reduce memory usage. Loaded Objects now: 4372.
+Total: 40.311000 ms (FindLiveObjects: 0.710000 ms CreateObjectMapping: 0.191000 ms MarkObjects: 33.906000 ms  DeleteObjects: 5.503000 ms)
+
+Successfully fetched 100 entries from Global in Level 5
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Text destroyed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6 - Rocket Town
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+leaderboard disabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully uploaded time to leaderboard Level 6
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 628 unused Assets to reduce memory usage. Loaded Objects now: 4372.
+Total: 39.218000 ms (FindLiveObjects: 0.521000 ms CreateObjectMapping: 0.249000 ms MarkObjects: 34.863000 ms  DeleteObjects: 3.584000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7 - Pizza Dreams
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+leaderboard disabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully uploaded time to leaderboard Level 7
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully fetched 100 entries from Global in Level 7
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 627 unused Assets to reduce memory usage. Loaded Objects now: 4372.
+Total: 37.708000 ms (FindLiveObjects: 0.586000 ms CreateObjectMapping: 0.464000 ms MarkObjects: 32.254000 ms  DeleteObjects: 4.403000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8 - Around The Block
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Misc_UntargetableCube (6) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 247 unused Assets to reduce memory usage. Loaded Objects now: 4370.
+Total: 39.935000 ms (FindLiveObjects: 0.804000 ms CreateObjectMapping: 0.218000 ms MarkObjects: 35.787000 ms  DeleteObjects: 3.125000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8 - Around The Block
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Museum_Pillar_Greek (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 247 unused Assets to reduce memory usage. Loaded Objects now: 4370.
+Total: 34.848000 ms (FindLiveObjects: 0.491000 ms CreateObjectMapping: 0.165000 ms MarkObjects: 31.152000 ms  DeleteObjects: 3.039000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8 - Around The Block
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Misc_UntargetableCube (6) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 247 unused Assets to reduce memory usage. Loaded Objects now: 4370.
+Total: 38.182000 ms (FindLiveObjects: 0.475000 ms CreateObjectMapping: 0.109000 ms MarkObjects: 33.770000 ms  DeleteObjects: 3.827000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8 - Around The Block
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Misc_UntargetableCube (6) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 247 unused Assets to reduce memory usage. Loaded Objects now: 4370.
+Total: 40.624000 ms (FindLiveObjects: 1.715000 ms CreateObjectMapping: 0.702000 ms MarkObjects: 34.618000 ms  DeleteObjects: 3.588000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8 - Around The Block
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Misc_UntargetableCube (6) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[MenuSelectableContainer].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at MenuInputManager.SelectColumn (Int32 delta) [0x00000] in <filename unknown>:0 
+  at MenuInputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 247 unused Assets to reduce memory usage. Loaded Objects now: 4370.
+Total: 35.231000 ms (FindLiveObjects: 1.383000 ms CreateObjectMapping: 0.199000 ms MarkObjects: 28.110000 ms  DeleteObjects: 5.539000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8 - Around The Block
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Misc_UntargetableCube (6) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 248 unused Assets to reduce memory usage. Loaded Objects now: 4370.
+Total: 39.449000 ms (FindLiveObjects: 0.672000 ms CreateObjectMapping: 0.186000 ms MarkObjects: 33.672000 ms  DeleteObjects: 4.919000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8 - Around The Block
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+leaderboard disabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully uploaded time to leaderboard Level 8
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 621 unused Assets to reduce memory usage. Loaded Objects now: 4372.
+Total: 38.821000 ms (FindLiveObjects: 0.681000 ms CreateObjectMapping: 0.231000 ms MarkObjects: 34.211000 ms  DeleteObjects: 3.697000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+9 - Mausoleum
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully fetched 100 entries from Global in Level 8
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Text destroyed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+leaderboard disabled
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully uploaded time to leaderboard Level 9
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 622 unused Assets to reduce memory usage. Loaded Objects now: 4373.
+Total: 35.953000 ms (FindLiveObjects: 0.544000 ms CreateObjectMapping: 0.162000 ms MarkObjects: 28.607000 ms  DeleteObjects: 6.640000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10 - Attack on Pillar
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully fetched 100 entries from Global in Level 9
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Text destroyed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Museum_Pillar_Greek (51) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 265 unused Assets to reduce memory usage. Loaded Objects now: 4371.
+Total: 27.149000 ms (FindLiveObjects: 0.697000 ms CreateObjectMapping: 0.115000 ms MarkObjects: 22.655000 ms  DeleteObjects: 3.682000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10 - Attack on Pillar
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Museum_Pillar_Greek (43) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 265 unused Assets to reduce memory usage. Loaded Objects now: 4371.
+Total: 29.235000 ms (FindLiveObjects: 0.784000 ms CreateObjectMapping: 0.277000 ms MarkObjects: 24.340000 ms  DeleteObjects: 3.834000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10 - Attack on Pillar
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Museum_Pillar_Greek (36) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 265 unused Assets to reduce memory usage. Loaded Objects now: 4371.
+Total: 26.195000 ms (FindLiveObjects: 0.546000 ms CreateObjectMapping: 0.189000 ms MarkObjects: 21.665000 ms  DeleteObjects: 3.795000 ms)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[MenuSelectableContainer].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at MenuInputManager.SelectColumn (Int32 delta) [0x00000] in <filename unknown>:0 
+  at MenuInputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10 - Attack on Pillar
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Museum_Pillar_Greek (42) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 265 unused Assets to reduce memory usage. Loaded Objects now: 4371.
+Total: 28.922000 ms (FindLiveObjects: 0.554000 ms CreateObjectMapping: 0.132000 ms MarkObjects: 24.393000 ms  DeleteObjects: 3.841000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10 - Attack on Pillar
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Museum_Pillar_Greek (36) (UnityEngine.GameObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 265 unused Assets to reduce memory usage. Loaded Objects now: 4391.
+Total: 27.693000 ms (FindLiveObjects: 0.462000 ms CreateObjectMapping: 0.151000 ms MarkObjects: 23.451000 ms  DeleteObjects: 3.627000 ms)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10 - Attack on Pillar
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkmate, History
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 263 unused Assets to reduce memory usage. Loaded Objects now: 4395.
+Total: 27.998000 ms (FindLiveObjects: 0.514000 ms CreateObjectMapping: 0.189000 ms MarkObjects: 23.846000 ms  DeleteObjects: 3.449000 ms)
+
+Analytics singleton initialized, OVERRIDE enabled, no data will be sent
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MusicManager.SwitchSong: Trying to switch song to event:/AffectMusicMelltron.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attempted to disconnect while not connected
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

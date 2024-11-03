@@ -1,0 +1,6 @@
+2024/11/02-19:18:03.144 25f2 Reusing MANIFEST /home/logan/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2024/11/02-19:18:03.162 25f2 Recovering log #3
+2024/11/02-19:18:03.163 25f2 Reusing old log /home/logan/.config/WebCord/Local Storage/leveldb/000003.log 
+2024/11/02-19:19:05.789 25f1 Level-0 table #5: started
+2024/11/02-19:19:05.801 25f1 Level-0 table #5: 29888 bytes OK
+2024/11/02-19:19:05.810 25f1 Delete type=0 #3
