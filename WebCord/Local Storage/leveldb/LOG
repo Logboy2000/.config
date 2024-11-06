@@ -4,3 +4,12 @@
 2024/11/02-19:19:05.789 25f1 Level-0 table #5: started
 2024/11/02-19:19:05.801 25f1 Level-0 table #5: 29888 bytes OK
 2024/11/02-19:19:05.810 25f1 Delete type=0 #3
+2024/11/02-19:33:37.115 25f2 Level-0 table #7: started
+2024/11/02-19:33:37.138 25f2 Level-0 table #7: 30526 bytes OK
+2024/11/02-19:33:37.146 25f2 Delete type=0 #4
+2024/11/02-19:50:38.580 25f2 Level-0 table #9: started
+2024/11/02-19:50:38.590 25f2 Level-0 table #9: 24767 bytes OK
+2024/11/02-19:50:38.599 25f2 Delete type=0 #6
+2024/11/02-20:48:08.809 25f2 Level-0 table #11: started
+2024/11/02-20:48:08.820 25f2 Level-0 table #11: 23740 bytes OK
+2024/11/02-20:48:08.829 25f2 Delete type=0 #8

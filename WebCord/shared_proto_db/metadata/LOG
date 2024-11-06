@@ -1,2 +1,3 @@
-2024/11/01-19:44:33.964 f59 Creating DB /home/logan/.config/WebCord/shared_proto_db/metadata since it was missing.
-2024/11/01-19:44:33.996 f59 Reusing MANIFEST /home/logan/.config/WebCord/shared_proto_db/metadata/MANIFEST-000001
+2024/11/02-19:34:49.878 25f1 Reusing MANIFEST /home/logan/.config/WebCord/shared_proto_db/metadata/MANIFEST-000001
+2024/11/02-19:34:49.879 25f1 Recovering log #3
+2024/11/02-19:34:49.879 25f1 Reusing old log /home/logan/.config/WebCord/shared_proto_db/metadata/000003.log 

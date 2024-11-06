@@ -1,4 +1,7 @@
 {
     "security.workspace.trust.untrustedFiles": "open",
-    "codemaker.apiKey": "cm-5HiHLtl5XhhAppla0juHf26hGgDyjiSBr9gzncdZPMsaWK5pfKDKSawMnZx1Ol2Y"
+    "codemaker.apiKey": "cm-5HiHLtl5XhhAppla0juHf26hGgDyjiSBr9gzncdZPMsaWK5pfKDKSawMnZx1Ol2Y",
+    "editor.wordWrap": "on",
+    "window.customTitleBarVisibility": "auto",
+    "redhat.telemetry.enabled": false
 }

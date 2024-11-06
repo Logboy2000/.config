@@ -1,10 +1,12 @@
 {
     "userDataProfilesMigration": true,
     "profileAssociations": {
-        "workspaces": {},
-        "emptyWindows": {
-            "1730597096641": "__default__profile__"
-        }
+        "workspaces": {
+            "file:///home/logan/Documents/Comp-Sci-20": "__default__profile__",
+            "file:///home/logan/Documents/Quick-Cure-Fabric": "__default__profile__",
+            "file:///home/logan/Documents/Pygame": "__default__profile__"
+        },
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -12,12 +14,18 @@
     "telemetry.devDeviceId": "836d0423-a8b0-4753-a146-a15f80220bbc",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1730597096641"
+                "folderUri": "file:///home/logan/Documents/Comp-Sci-20"
+            },
+            {
+                "folderUri": "file:///home/logan/Documents/Quick-Cure-Fabric"
+            },
+            {
+                "folderUri": "file:///home/logan/Documents/Pygame"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -76,6 +84,53 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/logan/Documents/Pygame",
+                                        "path": "/home/logan/Documents/Pygame",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Pygame"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/logan/Documents/Quick-Cure-Fabric",
+                                        "path": "/home/logan/Documents/Quick-Cure-Fabric",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Quick-Cure-Fabric"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/logan/Documents/Comp-Sci-20",
+                                        "path": "/home/logan/Documents/Comp-Sci-20",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Comp-Sci-20"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/logan/Documents/Quick-Cure-Fabric/gradlew",
+                                        "path": "/home/logan/Documents/Quick-Cure-Fabric/gradlew",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Quick-Cure-Fabric/gradlew"
+                                },
+                                {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
@@ -131,7 +186,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -224,6 +280,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -419,7 +479,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -436,7 +497,8 @@
                                 },
                                 {
                                     "id": "toggle.toggleCustomTitleBar",
-                                    "label": "Custom Title Bar"
+                                    "label": "Custom Title Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -739,7 +801,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "checked": true
                     }
                 ]
             },
@@ -1269,6 +1332,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1667,22 +1735,23 @@
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
+            "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 336,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/logan/.config/VSCodium/Backups/1730597096641",
+            "folder": "file:///home/logan/Documents/Pygame",
+            "backupPath": "/home/logan/.config/VSCodium/Backups/d791c6c6deb901f3dfab242a0da2e362",
             "uiState": {
                 "mode": 0,
-                "x": 0,
-                "y": 36,
-                "width": 1366,
-                "height": 668
+                "x": 1,
+                "y": 28,
+                "width": 1364,
+                "height": 640
             }
         },
         "openedWindows": []

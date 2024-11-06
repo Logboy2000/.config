@@ -134,13 +134,13 @@ ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
 DirSelectDialog Size=820,584
-History Items[$e]=file:$HOME/Games/Wii
+History Items[$e]=file:$HOME/Documents,file:$HOME/Documents/Comp-Sci-20,file:$HOME/Documents/Comp-Sci-20,file:$HOME/Games/Wii
 
 [General]
 ColorSchemeHash=babca25f3a5cf7ece26a85de212ab43d0a141257
 
 [KDE]
-AnimationDurationFactor=1.414213562373095
+AnimationDurationFactor=0.7071067811865475
 LookAndFeelPackage=org.kde.breezedark.desktop
 
 [KFileDialog Settings]
@@ -162,6 +162,9 @@ Sort hidden files last=false
 Sort reversed=false
 Speedbar Width=140
 View Style=DetailTree
+
+[KScreen]
+ScreenScaleFactors=eDP-1=1;VGA-1=1;HDMI-1=1;DP-1=1;HDMI-2=1;DP-2=1;
 
 [WM]
 activeBackground=49,54,59
